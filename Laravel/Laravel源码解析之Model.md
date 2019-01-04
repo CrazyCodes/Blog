@@ -77,7 +77,7 @@ public function __call($method, $parameters)
 转发,调用的是 ```  Illuminate\Database\Connection ``` ，用户处理 ```table() ```方法，随后会通过 ``` table() ``` 方法指向 ``` Illuminate\Database\Query ``` 类，开头我们讲过这个类了，这里就不多说了，随后就是各种sql的拼接->执行sql->结束战斗
 
 
-![clipboard.png](/img/bVbhFh2)
+![](https://resources.blog.fastrun.cn/wp-content/uploads/2019/01/1413934109-5baf39bfab3cb_articlex.png)
 
 # Eloquent ORM
 Eloquent ORM 与DB facade 类似，首先每个 Eloquent ORM 都需要继承父类 ``` Illuminate\Database\Eloquent\Model ``` 
@@ -121,8 +121,7 @@ $this->query->{$method}(...$parameters);
 
 至此就完成了整个数据操作。
 
-
-![clipboard.png](/img/bVbhFk3)
+![](https://resources.blog.fastrun.cn/wp-content/uploads/2019/01/695898890-5baf3c86c85c7_articlex.png)
 
 
 # 致谢
