@@ -26,7 +26,7 @@ Hello , 各位Coder ！
 
 # 开源
 
-![clipboard.png](https://resources.blog.fastrun.cn/wp-content/uploads/2019/01/2243375467-5c4ebcc1a16ff_articlex.png)
+![](https://resources.blog.fastrun.cn/wp-content/uploads/2019/01/2243375467-5c4ebcc1a16ff_articlex.png)
 
 开源的目的是什么？建立一个更好的技术生态圈，Coder与Coder之间互相帮助，达到更好的效果（并不是结对编程哈），现如今PHP的生态圈非常健康的运转，无论是PHP7的发布或者Composer的诞生，都为贵圈提供了更好的技术与实践的支持。我们应更好的去接触、熟练的去运用各位大神费尽心血为我们准备的全新的PHP
 
