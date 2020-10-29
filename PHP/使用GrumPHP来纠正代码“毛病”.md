@@ -1,4 +1,4 @@
-![clipboard.png](https://resources.blog.fastrun.cn/wp-content/uploads/2019/07/1636353612-5ceddce4547bb_articlex.png)
+![clipboard.png](http://resources.blog.fastrun.cn/wp-content/uploads/2019/07/1636353612-5ceddce4547bb_articlex.png)
 
 
 # 前言
@@ -109,7 +109,7 @@ parameters:
 ## 准备
 现在目录是酱紫的
 
-![clipboard.png](https://resources.blog.fastrun.cn/wp-content/uploads/2019/07/4032416285-5cede1e0a908e_articlex.png)
+![clipboard.png](http://resources.blog.fastrun.cn/wp-content/uploads/2019/07/4032416285-5cede1e0a908e_articlex.png)
 
 1. 首先在github建立一个库，用于测试。https://github.com/CrazyCodes/grumphp_test
 
