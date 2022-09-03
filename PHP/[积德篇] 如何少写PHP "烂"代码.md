@@ -297,7 +297,7 @@ Service本身译为服务
 感谢各位同学看完这篇文章，如果你有新的想法欢迎在评论区讨论.
 
 # 参考文章
-Laravel 的中大型專案架構:http://oomusou.io/laravel/architecture/#Service
+Laravel 的中大型專案架構:https://old-oomusou.goodjack.tw/laravel/architecture/#Service
 Laravel 程序架构设计思路使用动作类 : https://segmentfault.com/a/1190000015208089
-如何使用 Service 模式? : http://oomusou.io/laravel/service/
+如何使用 Service 模式? : https://old-oomusou.goodjack.tw/laravel/service/
 面向对象设计的SOLID原则 : https://www.cnblogs.com/shanyou/archive/2009/09/21/1570716.html
